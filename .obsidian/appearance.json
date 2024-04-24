@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "textFontFamily": "Souvenir",
+  "interfaceFontFamily": "Souvenir",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "ITS DND Theme",
+    "fontswitch"
+  ],
+  "theme": "moonstone",
+  "monospaceFontFamily": "Souvenir"
+}

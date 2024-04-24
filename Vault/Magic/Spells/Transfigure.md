@@ -1,0 +1,3 @@
+## Transfigure                              
+
+This cantrip may change a small object (up to 27 cubic inches) into another shape, size, color, or texture. Radical changes, such as creating small living things, are not apt to last more than one turn, but minor changes (such as coloring a head of hair bright pink) may stay as long as a month. "Related" changes, such as creating a baby hedgehog from a pincushion, may last longer than non-related ones (such as changing a book into a lizard).

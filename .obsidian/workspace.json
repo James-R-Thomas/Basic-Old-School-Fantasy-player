@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "4ae9ce3a3e4524f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "720a706aed28b911",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74357214c9953559",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "650a7dc842ca7294",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ffbe726d1e5dec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "804a3278a103ade0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eedc8c7be887d8c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "rings",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "029abbb25660023f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "right": {
+    "id": "cfa6257d0c86eb35",
+    "type": "split",
+    "children": [
+      {
+        "id": "834efce68a47df72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d38314394f4f1493",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "491b457f633bc121",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "511bc96f97894bec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3af9e38c7f6e0bab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4123cdc27b0a506",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obisidian-note-linker:Note Linker": false
+    }
+  },
+  "active": "74357214c9953559",
+  "lastOpenFiles": [
+    "Vault/Magic/Spells/Slow Poison.md",
+    "Navagation/Adventures.md",
+    "Vault/Characters/Advancement.md",
+    "broken links output.md",
+    "Vault/Equipment & Services/Rules for Vehicles.md",
+    "Vault/Adventures/Encounters.md",
+    "Vault/Adventures/Saving Throws.md",
+    "Navagation/Characters.md",
+    "Navagation/Classes.md",
+    "Navagation/Equipment & Services.md",
+    "Navagation/Magic.md",
+    "Navagation/Navagation.md",
+    "Navagation/Monsters.md",
+    "Navagation/Running Adventures.md",
+    "Vault/Magic/Spells/Transmute Metal to Wood.md",
+    "Vault/Magic/Rules of Magic/Magical Research.md",
+    "Vault/Equipment & Services/Weapons and Armor.md",
+    "Vault/Equipment & Services/Retainers.md",
+    "Vault/Adventures/Other Combat Issues.md",
+    "Vault/Adventures/Combat Tables.md",
+    "README.md",
+    "Vault/Treasures/Weapons.md",
+    "Vault/Treasures/Treasure Types.md",
+    "Vault/Treasures/Swords.md",
+    "Vault/Treasures/Special Purpose of Sentient Swords.md",
+    "Vault/Treasures/Sentient Swords.md",
+    "Navagation",
+    "Vault",
+    "Vault/Classes/Dimihuman Classes (Not Used)",
+    "Bard.PNG",
+    "Pasted image 20240415111812.png",
+    "Non_Magic_Chart.htm",
+    "Non Magic Chart.htm",
+    "OSE.Logo.White.png",
+    "OSE.Logo.Black.png",
+    "Open",
+    "11. Atchments",
+    "Fighter 2.webp",
+    "Druid Raise dead 1.jpg",
+    "Druid Raise dead.jpg",
+    "Vault/Templates",
+    "Vault/Magic/Rules of Magic",
+    "Vault/Magic/Spell Lists"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ITS@@select": "wotc-beyond",
+  "ITS@@nord": false,
+  "ITS@@drwn": false,
+  "ITS@@t-d": false,
+  "ITS@@its-d": false,
+  "ITS@@notion": false,
+  "ITS@@mini": false,
+  "ITS@@accent-color": false,
+  "ITS@@folder-f": "souvenir",
+  "ITS@@file-f": "souvenir",
+  "ITS@@vault-font": "souvenir",
+  "ITS@@default-font": "souvenir",
+  "ITS@@font-monospace": "souvenir",
+  "ITS@@comment-font": "souvenir",
+  "ITS@@inline-title-font": "souvenir",
+  "ITS@@font": "souvenir",
+  "ITS@@link-font": "souvenir",
+  "ITS@@link-external-font": "souvenir",
+  "ITS@@tag-font": "souvenir",
+  "ITS@@lig": false
+}
